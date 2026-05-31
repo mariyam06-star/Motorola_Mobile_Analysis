@@ -111,7 +111,7 @@ These filters allow users to explore data from multiple perspectives.
 
 ## Dashboard Preview
 
-![Motorola Sales Dashboard](motorola-dashboard.png)
+![Motorola Sales Dashboard](Dasboard_screenshot.png)
 
 ---
 
